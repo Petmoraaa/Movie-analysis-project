@@ -43,6 +43,12 @@ ABC Company is establishing a new movie studio but lacks experience in film prod
 
 5. **Optimal Runtime**:
    - Movies with runtimes of 120–150 minutes strike a balance between audience engagement and satisfaction.
+  
+## Supporting visualizations
+![Local Image](Picture1.png)
+![Local Image](Picture2.png)
+![Local Image](Picture3.png)
+![Local Image](Picture4.png)
 
 ## **Conclusions**
 ---
