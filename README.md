@@ -1,4 +1,4 @@
-![Local Image](images/cover_image.jpg)
+![Local Image](cover_image.png)
 
 # Movie Data Analysis
 
